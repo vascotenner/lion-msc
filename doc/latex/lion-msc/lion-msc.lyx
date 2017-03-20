@@ -112,6 +112,48 @@ texmf
 \end_layout
 
 \begin_layout Itemize
+Windows 10:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family typewriter
+P:
+\backslash
+Profiles
+\backslash
+Application data
+\backslash
+MikTex
+\backslash
+2.9
+\backslash
+
+\end_layout
+
+\begin_layout Itemize
+
+\family typewriter
+C:
+\backslash
+Users
+\backslash
+<user name>
+\backslash
+Appdata
+\backslash
+Local
+\backslash
+MikTex
+\backslash
+2.9
+\backslash
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
 Linux 
 \family typewriter
 ~/texmf
@@ -163,15 +205,17 @@ Local layout
 \family default
  to 
 \family typewriter
-c:
+P:
 \backslash
-Users
+Profiles
 \backslash
-<user name>
+Application data
 \backslash
-texmf
+MikTex
 \backslash
- doc
+2.9
+\backslash
+doc
 \backslash
 latex
 \backslash
